@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.08966508.chunk.css",
+    "main.js": "/static/js/main.cd952417.chunk.js",
+    "main.js.map": "/static/js/main.cd952417.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.81057aad.js",
+    "runtime-main.js.map": "/static/js/runtime-main.81057aad.js.map",
+    "static/js/2.bc454758.chunk.js": "/static/js/2.bc454758.chunk.js",
+    "static/js/2.bc454758.chunk.js.map": "/static/js/2.bc454758.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.08966508.chunk.css.map": "/static/css/main.08966508.chunk.css.map",
+    "static/js/2.bc454758.chunk.js.LICENSE.txt": "/static/js/2.bc454758.chunk.js.LICENSE.txt",
+    "static/media/logo-data-huygensing.5276f91a.png": "/static/media/logo-data-huygensing.5276f91a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81057aad.js",
+    "static/js/2.bc454758.chunk.js",
+    "static/css/main.08966508.chunk.css",
+    "static/js/main.cd952417.chunk.js"
+  ]
+}
