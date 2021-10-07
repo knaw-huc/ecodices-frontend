@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Tot hier en niet verder"
+AuthUserFile /var/www/.htpasswd
+Require valid-user
